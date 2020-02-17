@@ -1,2 +1,2 @@
 # ansatz
-Strikr ansatz is a agent less and agenda less desired state configuration declarative framework.
+Strikr ansatz is a agent-less and agenda-setting high performance desired state configuration declarative framework for your IT infrastructure.
